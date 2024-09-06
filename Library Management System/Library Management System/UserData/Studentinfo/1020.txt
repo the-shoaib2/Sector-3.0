@@ -1,0 +1,6 @@
+Student Name: Md Moniruzzaman Rifat
+Student ID: 1020
+Password: 123456
+Email: monirbcd3918@gmail.com
+Department: cse
+Phone Number: 01785468366

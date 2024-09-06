@@ -1,0 +1,6 @@
+Student Name: Ashfia Tripti 
+Student ID: 1560
+Password: $386
+Email: valolage@gmail.com
+Department: CSE
+Phone Number: 08765432

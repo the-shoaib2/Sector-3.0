@@ -1,0 +1,5 @@
+Title:Principles, Techniques, and Tools
+Author:Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
+ISBN: 0201100886
+Quantity:15
+

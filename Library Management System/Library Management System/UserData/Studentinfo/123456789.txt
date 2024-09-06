@@ -1,0 +1,6 @@
+Student Name: 123456789
+Student ID: 123456789
+Password: 123456789
+Email: 1234567@gmail.com
+Department: cse
+Phone Number: 01909978166

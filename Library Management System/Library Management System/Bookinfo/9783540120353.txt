@@ -1,0 +1,4 @@
+Title: Fundamentals of Computer Algorithms
+Author: Ellis Horowitz, Sartaj Sahni
+ISBN: 3540120351, 9783540120353
+Quantity: 20

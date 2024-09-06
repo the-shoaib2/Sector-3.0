@@ -1,0 +1,6 @@
+Student Name: Kazi Amir Hamza
+Student ID: 1895
+Password: 98765
+Email: janina.ki.disilam@gmail.com
+Department: CSE
+Phone Number: 09988776655

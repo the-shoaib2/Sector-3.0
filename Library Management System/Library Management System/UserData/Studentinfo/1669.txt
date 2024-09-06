@@ -1,0 +1,6 @@
+Student Name: Sanjina Iftasum
+Student ID: 1669
+Password: 123456
+Email: sanjinaiftasum@gmail.com
+Department: CSE
+Phone Number: ************

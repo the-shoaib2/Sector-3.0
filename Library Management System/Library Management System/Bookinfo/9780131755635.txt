@@ -1,0 +1,4 @@
+Title: Computer System Architecture
+Author: M. Morris Mano
+ISBN: 9780131755635
+Quantity: 21

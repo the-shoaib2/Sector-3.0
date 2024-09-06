@@ -1,0 +1,6 @@
+Student Name: Abdur Rahman
+Student ID: 1920
+Password: 1413
+Email: ectemarakhabo69@gmail.com
+Department: CSE
+Phone Number: 01234567891

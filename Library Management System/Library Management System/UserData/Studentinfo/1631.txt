@@ -1,0 +1,6 @@
+Student Name Sumona Islam
+Student ID 1631
+Password $386
+Email valolage@gmail.com
+Department CSE
+Phone Number 08765432

@@ -1,0 +1,6 @@
+Student Name: Robiul karim jesan
+Student ID: 1534
+Password: 123456
+Email: badwisebalabala@gmail.com
+Department: CSE
+Phone Number: 01824823924

@@ -1,0 +1,6 @@
+Student Name: MD Shoaib Khan
+Student ID: 01909978166
+Password: 123456
+Email: abrohoman019@gmail.com
+Department: CSE
+Phone Number: 01909978166

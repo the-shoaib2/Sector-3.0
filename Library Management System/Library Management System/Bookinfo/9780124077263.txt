@@ -1,0 +1,4 @@
+Title:
+Author: abc
+ISBN: 123456
+Quantity: 2

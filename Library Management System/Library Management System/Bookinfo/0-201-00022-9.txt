@@ -1,0 +1,4 @@
+Title: Principles of Compiler Design
+Author: Alfred V. Aho,Jeffrey D. Ullman
+ISBN: 0-201-00022-9
+Quantity: 20
